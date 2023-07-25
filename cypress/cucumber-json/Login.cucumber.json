@@ -23,7 +23,7 @@
             "name": "Visit Practice Test Automation Website",
             "result": {
               "status": "passed",
-              "duration": 4852000000
+              "duration": 9459000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "User Provide Username",
             "result": {
               "status": "passed",
-              "duration": 877000000
+              "duration": 1757000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "User Provide Password",
             "result": {
               "status": "passed",
-              "duration": 2668000000
+              "duration": 3793000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "User Click On Login Button To Log In Into The Practice Test Automation Website",
             "result": {
               "status": "passed",
-              "duration": 2892000000
+              "duration": 10418000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "User Read The Text Of Successfully Log In Into The Website",
             "result": {
               "status": "passed",
-              "duration": 1208000000
+              "duration": 1960000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "User Click On Logout Button For Reply To The Login Website",
             "result": {
               "status": "passed",
-              "duration": 811000000
+              "duration": 1070000000
             }
           }
         ]
