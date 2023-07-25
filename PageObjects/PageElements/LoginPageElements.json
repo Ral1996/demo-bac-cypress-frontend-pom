@@ -1,0 +1,10 @@
+
+{
+    "LoginPagewWebElements": {
+        "usernameId": "#username",
+        "passwordId": "#password",
+        "buttonLoginId": "#submit",
+        "labelSuccessLoginClass": ".post-title",
+        "buttonLogoutClass": ".wp-block-button__link" 
+    }
+}

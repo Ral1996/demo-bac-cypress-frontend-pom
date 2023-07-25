@@ -1,0 +1,83 @@
+[
+  {
+    "description": "    This is a test automation demo with Cypress, Cucumber and NodeJS tools and technologies.",
+    "keyword": "Feature",
+    "name": "Test Login Page For Demo BAC",
+    "line": 1,
+    "id": "test-login-page-for-demo-bac",
+    "tags": [],
+    "uri": "Login.feature",
+    "elements": [
+      {
+        "id": "test-login-page-for-demo-bac;user-should-be-able-to-login-using-valid-credentials",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "User Should Be Able To Login Using Valid Credentials",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Visit Practice Test Automation Website",
+            "result": {
+              "status": "passed",
+              "duration": 5583000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "User Provide Username",
+            "result": {
+              "status": "passed",
+              "duration": 1204000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "User Provide Password",
+            "result": {
+              "status": "passed",
+              "duration": 3524000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "User Click On Login Button To Log In Into The Practice Test Automation Website",
+            "result": {
+              "status": "passed",
+              "duration": 2876000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "User Read The Text Of Successfully Log In Into The Website",
+            "result": {
+              "status": "passed",
+              "duration": 2010000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "User Click On Logout Button For Reply To The Login Website",
+            "result": {
+              "status": "passed",
+              "duration": 1465000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
